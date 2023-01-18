@@ -99,6 +99,7 @@ counter_down<=counter_down-4'd1;
 end
 assign counter=counter_down;
 endmodule
+```
 
 ### RTL LOGIC FOR UP COUNTER AND DOWN COUNTER  
 UP COUNTER:
